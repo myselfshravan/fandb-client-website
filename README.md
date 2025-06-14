@@ -1,5 +1,7 @@
 # F&B Client Website Documentation
 
+## Complete Project Catalog: [View PDF](F_and_B_QR_Code_based_Food_Ordering_System.pdf)
+
 ## Overview
 
 This is a modern client-side application for a Food & Beverage ordering system that provides a seamless dining experience. The platform enables customers to browse menus, place orders, track their order status in real-time, and manage their bills efficiently.
@@ -453,3 +455,5 @@ Key data models include:
 - Include test coverage
 
 This documentation provides a comprehensive overview of the F&B client website. The system is designed to be scalable, maintainable, and user-friendly, with clear separation of concerns and robust error handling. For additional support or queries, please open an issue in the repository.
+
+<iframe src="F_and_B_QR_Code_based_Food_Ordering_System.pdf" width="100%" height="600px"></iframe>
